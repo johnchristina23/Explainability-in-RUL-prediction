@@ -16,6 +16,7 @@ August 20, 2024
 
 
 Abstract
+
 In Operations Research and Business Process Management, process modeling is
 critical for identifying inefficiencies and optimizing resource allocation. This study
 delves into predictive process monitoring, particularly process outcome prediction,
